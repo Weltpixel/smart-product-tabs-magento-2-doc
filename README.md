@@ -1,11 +1,11 @@
-<h1><a href="https://www.weltpixel.com/smart-magento-2-custom-product-tabs-extension.html">Smart Magento 2 Custom Product Page Tabs by Weltpixel.</a></h1>
+<h1><a href="https://www.weltpixel.com/smart-magento-2-custom-product-tabs-extension.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Smart Magento 2 Custom Product Page Tabs by Weltpixel.</a></h1>
 <br/><br/>
 <table>
  <tr>
   <td width="30%" valign="center" style="
     border: none;
-"><br><a href="https://www.weltpixel.com/smart-magento-2-custom-product-tabs-extension.html"><img src="https://www.weltpixel.com/media/catalog/product/c/u/custom_product_tabs_chart_1.png" alt="SmartCustom Product Page Tabs"></a>
-<br><a href="https://www.weltpixel.com"><img src="https://www.weltpixel.com/media/wysiwyg/weltpixel_1000x1000.png" alt="WeltPixel Logo"></a></td>
+"><br><a href="https://www.weltpixel.com/smart-magento-2-custom-product-tabs-extension.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs"><img src="https://www.weltpixel.com/media/catalog/product/c/u/custom_product_tabs_chart_1.png" alt="SmartCustom Product Page Tabs"></a>
+<br><a href="https://www.weltpixel.com?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs"><img src="https://www.weltpixel.com/media/wysiwyg/weltpixel_1000x1000.png" alt="WeltPixel Logo"></a></td>
   <td style="border:none;"><br>
 <h1>ABOUT SMART MAGENTO 2 CUSTOM PRODUCT TABS EXTENSION.</h1>
 <ul>
@@ -22,8 +22,8 @@ Default Magento doesn't give you proper control over your product tabs and corre
 This will help to dynamically show specific product information only for certain products. This can be based on material, size-chart, country of manufacture, man/woman, price, promotion, product features, and more. Applicability of the Magento 2 product tabs is wide. Custom tabs can be adapted to any business model in order to increase store usability.
  </p>
 </ul>
-                        <h3>Download Here: <a href="https://www.weltpixel.com/smart-magento-2-custom-product-tabs-extension.html">Smart Magento 2 Custom Product Page Tabs by WeltPixel.</a></h3>
-                        <h3>Included in the <a href="https://www.weltpixel.com/magento-2-theme-pearl">Pearl Theme for Magento 2.</a></h3>
+                        <h3>Download Here: <a href="https://www.weltpixel.com/smart-magento-2-custom-product-tabs-extension.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Smart Magento 2 Custom Product Page Tabs by WeltPixel.</a></h3>
+                        <h3>Included in the <a href="https://www.weltpixel.com/magento-2-theme-pearl?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Pearl Theme for Magento 2.</a></h3>
    </div></td>
  </tr>
 </table>
@@ -189,8 +189,8 @@ This will help to dynamically show specific product information only for certain
                         </ul> 
                         <h1>Magento Marketplace Installation.</h1>
                             <ul>
-                                <li>If the extension was purchased from the Magento Marketplace, follow the instructions in this article: <a href="https://support.weltpixel.com/hc/en-us/articles/115004328687-How-to-install-extension-if-purchased-from-Magento-Marketplace" target="_blank">How to install extension if purchased from the Magento Marketplace</a></li>
-                                <li>If asked for a license, follow the steps presented in section 7 of this article: <a href="https://support.weltpixel.com/hc/en-us/articles/360006697594-License-key-for-local-staging-development-environment-Multi-store-licensing-" target="_blank">License key for local / staging / development environment. Multi-store licensing. </a></li></ul>
+                                <li>If the extension was purchased from the Magento Marketplace, follow the instructions in this article: <a href="https://support.weltpixel.com/hc/en-us/articles/115004328687-How-to-install-extension-if-purchased-from-Magento-Marketplace?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs" target="_blank">How to install extension if purchased from the Magento Marketplace</a></li>
+                                <li>If asked for a license, follow the steps presented in section 7 of this article: <a href="https://support.weltpixel.com/hc/en-us/articles/360006697594-License-key-for-local-staging-development-environment-Multi-store-licensing-?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs" target="_blank">License key for local / staging / development environment. Multi-store licensing. </a></li></ul>
                                 <tr>
   <td width="100%">
       <div class="col-md-6">
@@ -386,7 +386,7 @@ You can use one of your already created attributes (dropdown), or you can create
 </p>
 <p>
 <li>
-    Reindex product catalog if necessary, check here <strong><a href="https://support.weltpixel.com/hc/en-us/articles/115000355673-How-to-reindex-your-Magento-2-store-from-admin-or-SSH-CLI" target="_blank">How to reindex your Magento 2 store</a></strong>
+    Reindex product catalog if necessary, check here <strong><a href="https://support.weltpixel.com/hc/en-us/articles/115000355673-How-to-reindex-your-Magento-2-store-from-admin-or-SSH-CLI?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs" target="_blank">How to reindex your Magento 2 store</a></strong>
 </li>
 </p>
 <li>
@@ -399,4 +399,4 @@ You can use one of your already created attributes (dropdown), or you can create
   </td>
  </tr>
 </table>
- <h3>Download it now! <a href="https://www.weltpixel.com/smart-magento-2-custom-product-tabs-extension.html">Smart Magento 2 Custom Product Page Tabs by WeltPixel.</a></h3>
+ <h3>Download it now! <a href="https://www.weltpixel.com/smart-magento-2-custom-product-tabs-extension.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Smart Magento 2 Custom Product Page Tabs by WeltPixel.</a></h3>
