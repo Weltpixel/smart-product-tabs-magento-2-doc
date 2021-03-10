@@ -30,6 +30,12 @@ This will help to dynamically show specific product information only for certain
 <br/>
 <h2>Features of the Extension.</h2>
                         <ul>
+ <li>
+  <strong>NEW: Condition-Based Smart Product Tabs</strong> - Create Smart Product Tabs with your own custom content based on Magento Conditions directly via the Magento Admin.
+  </li>
+   <li>
+    <strong>NEW: Edit the default Magento Product Page Tabs</strong> - Additional options for default Magento Product Page Tabs allow you to change the Tab Title, Position or even choose whether or not the default tabs are displayed on the frontend.
+    </li>
                             <li>
                                 <strong>Display relevant content</strong> - optimize customer experience with content based on product type and attribute values.
                             <li>
